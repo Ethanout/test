@@ -1,7 +1,5 @@
 test123
 hihi
-abc  
-
-  
+abc
 123
 \~
