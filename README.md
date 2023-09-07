@@ -1,6 +1,1 @@
-test123  
-hihi  
-abc  
-123  
-/n
-123
+for example: `execute positioned ~ ~1 ~ as @a[distance=..1] run say 1`
